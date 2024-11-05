@@ -1,4 +1,0 @@
-- name: Simple Ansible Playbook
-  hosts: servers
-  roles:
-    - sample-task
